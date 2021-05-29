@@ -1,5 +1,5 @@
 # ytGUI
-A simple based around youtube-dl.
+A simple based gui on youtube-dl.
 
 This program is written in Java and uses the swing library.
 
